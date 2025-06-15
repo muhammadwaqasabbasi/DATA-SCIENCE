@@ -1,0 +1,501 @@
+Working_Year,Designation,Experience,Employment_Status,Employee_Location,Company_Size,Remote_Working_Ratio,Salary_USD
+2020.0,Data Analyst,Lead,PT,Germany,M,0.0,
+2021.0,Business Analyst,Senior,FT,UK,L,0.0,53320.87
+2023.0,,Junior,Contract,UK,,100.0,
+2021.0,Business Analyst,Junior,FT,Germany,S,100.0,55682.63
+2024.0,Data Scientist,Lead,FT,USA,S,100.0,69469.78
+2017.0,Business Analyst,Mid,FT,UK,M,0.0,147077.18
+2022.0,AI Researcher,Senior,Contract,UK,M,50.0,116279.92
+2016.0,,Mid,FT,Canada,L,0.0,182668.72
+2015.0,Data Engineer,Lead,Contract,Australia,L,100.0,109048.23
+,,,,,,,
+2020.0,AI Researcher,Lead,FT,Australia,L,50.0,180139.08
+2020.0,AI Researcher,Lead,Contract,Germany,L,50.0,
+2020.0,Machine Learning Engineer,Junior,Contract,Australia,M,50.0,109629.44
+2017.0,Machine Learning Engineer,,Contract,Canada,L,0.0,174991.35
+2021.0,Data Scientist,Senior,FT,USA,S,50.0,96197.68
+2024.0,Data Scientist,Lead,Contract,UK,S,100.0,197693.7
+2016.0,Machine Learning Engineer,Lead,PT,,S,50.0,163264.31
+2021.0,Data Engineer,Senior,FT,Canada,S,100.0,135308.95
+2020.0,Data Engineer,Lead,Contract,Australia,M,100.0,
+2015.0,Data Scientist,Mid,FT,,L,0.0,77805.81
+2020.0,Data Engineer,Lead,FT,India,S,100.0,165852.61
+2017.0,Business Analyst,Junior,FT,Germany,L,100.0,84656.64
+2016.0,Data Scientist,Lead,FT,Germany,L,0.0,
+2018.0,Machine Learning Engineer,Lead,PT,Australia,M,50.0,173626.78
+2021.0,Machine Learning Engineer,Senior,FT,Australia,L,100.0,150129.81
+2017.0,Machine Learning Engineer,Senior,PT,Germany,S,100.0,177332.25
+2016.0,,Junior,Contract,India,L,100.0,150825.01
+2024.0,Machine Learning Engineer,Senior,PT,UK,M,100.0,37381.81
+2016.0,Data Scientist,Senior,PT,USA,M,50.0,115801.84
+2018.0,Machine Learning Engineer,Lead,FT,UK,S,0.0,173054.32
+2024.0,,,,,,,
+2019.0,AI Researcher,Lead,Contract,India,S,50.0,172201.33
+2017.0,Data Scientist,Lead,Contract,Australia,M,0.0,64954.83
+2021.0,AI Researcher,Junior,FT,Australia,S,100.0,
+2023.0,Business Analyst,Junior,Contract,UK,M,100.0,180128.2
+2017.0,Machine Learning Engineer,Mid,Contract,India,L,100.0,134619.67
+2017.0,Data Scientist,Lead,FT,UK,L,0.0,
+2022.0,Data Scientist,Mid,PT,USA,M,0.0,169177.77
+2017.0,AI Researcher,Senior,PT,India,L,100.0,1000000.0
+2018.0,Business Analyst,Mid,Contract,Canada,M,0.0,66310.62
+2019.0,Machine Learning Engineer,Lead,Contract,Germany,L,0.0,135971.4
+2023.0,Data Scientist,Mid,PT,UK,M,100.0,94308.23
+2019.0,Business Analyst,Mid,FT,India,M,50.0,198534.55
+2019.0,AI Researcher,Lead,FT,India,L,0.0,76801.26
+2015.0,Data Scientist,Mid,FT,Canada,S,100.0,192727.08
+2018.0,Business Analyst,Junior,PT,Germany,L,50.0,58100.73
+2024.0,Data Scientist,Mid,Contract,India,M,100.0,171472.5
+2018.0,Data Analyst,Junior,Contract,Germany,S,0.0,104466.61
+2022.0,Data Scientist,Lead,PT,Germany,M,0.0,87520.42
+2020.0,Data Scientist,Lead,PT,,S,0.0,
+2021.0,Machine Learning Engineer,Senior,FT,Canada,M,50.0,123265.57
+2015.0,Data Scientist,Senior,Contract,India,L,50.0,
+2021.0,Data Scientist,Mid,Contract,Germany,L,100.0,168506.34
+2023.0,Data Scientist,Senior,FT,UK,M,100.0,
+2016.0,Business Analyst,Mid,Contract,India,M,0.0,104498.31
+2015.0,Data Scientist,Junior,Contract,USA,L,0.0,
+2024.0,Business Analyst,Lead,PT,USA,L,0.0,31881.87
+2015.0,AI Researcher,Junior,Contract,Canada,M,50.0,133757.77
+2021.0,,Mid,PT,Australia,L,50.0,139384.47
+2021.0,Data Scientist,Junior,FT,Canada,S,100.0,193816.94
+2017.0,Data Engineer,Junior,Contract,Canada,L,100.0,160054.03
+2019.0,Machine Learning Engineer,Mid,FT,USA,L,0.0,119409.94
+2019.0,Machine Learning Engineer,Lead,FT,USA,L,50.0,93290.92
+2021.0,Machine Learning Engineer,Junior,PT,Germany,,100.0,
+2019.0,Data Analyst,Junior,Contract,India,M,100.0,30147.1
+2017.0,AI Researcher,Senior,Contract,India,S,100.0,101447.35
+2022.0,Data Analyst,Mid,FT,Canada,S,100.0,99791.59
+2023.0,Business Analyst,Junior,Contract,USA,L,100.0,57214.69
+,,,,,,,
+2018.0,Data Analyst,Lead,PT,Germany,M,0.0,74031.29
+2019.0,Data Analyst,Senior,Contract,Canada,,50.0,
+2023.0,AI Researcher,Lead,Contract,India,L,50.0,172747.26
+2021.0,Data Analyst,Senior,FT,USA,S,50.0,
+,,,,,,,
+2022.0,Data Analyst,Junior,Contract,Canada,S,100.0,130005.27
+2017.0,,Senior,PT,UK,S,0.0,62055.23
+2015.0,,,,,,100.0,
+2023.0,Data Scientist,Senior,Contract,UK,L,0.0,
+2018.0,Business Analyst,Mid,FT,Australia,S,100.0,
+2015.0,AI Researcher,Mid,PT,India,L,50.0,189000.54
+2015.0,AI Researcher,Lead,FT,Australia,L,100.0,188641.35
+2021.0,Data Engineer,Mid,PT,Canada,L,100.0,106475.6
+2019.0,Business Analyst,Senior,FT,India,M,100.0,192985.47
+2018.0,Data Analyst,Mid,PT,Australia,S,0.0,96574.4
+2022.0,,,,,,,
+2020.0,Machine Learning Engineer,Junior,Contract,Canada,M,0.0,41093.68
+2020.0,AI Researcher,Mid,PT,UK,M,0.0,75033.1
+2016.0,Data Analyst,Mid,FT,India,L,100.0,162679.94
+2023.0,Business Analyst,Junior,PT,Australia,L,100.0,76324.03
+2020.0,AI Researcher,,FT,Germany,M,50.0,54612.75
+2022.0,AI Researcher,Junior,PT,India,M,0.0,186080.78
+2017.0,Data Analyst,Mid,FT,Canada,L,0.0,163141.34
+2020.0,AI Researcher,Lead,Contract,UK,S,50.0,160399.76
+2017.0,Data Scientist,Lead,PT,Australia,S,0.0,
+2022.0,Data Scientist,Senior,PT,USA,L,0.0,127491.29
+2020.0,Data Scientist,Lead,FT,Canada,S,50.0,101245.08
+2016.0,Data Scientist,Lead,PT,India,M,50.0,116446.97
+2015.0,AI Researcher,Lead,FT,India,L,100.0,192959.49
+2024.0,Data Scientist,Junior,Contract,UK,S,100.0,49765.21
+2020.0,Data Scientist,Senior,FT,UK,L,100.0,
+2023.0,Machine Learning Engineer,Junior,Contract,Germany,L,50.0,
+2016.0,Data Engineer,,,,,100.0,
+2016.0,Machine Learning Engineer,Lead,FT,Australia,M,50.0,130803.6
+2023.0,Machine Learning Engineer,Lead,Contract,India,M,0.0,61403.35
+,,,,,,,
+2019.0,Data Analyst,Junior,Contract,USA,M,0.0,130774.27
+2016.0,Data Scientist,Lead,PT,India,L,50.0,52764.91
+2019.0,AI Researcher,Senior,PT,Germany,M,100.0,97341.77
+2023.0,Data Scientist,Lead,FT,India,M,0.0,177379.8
+2016.0,Data Analyst,Senior,PT,USA,M,50.0,108415.99
+2019.0,Data Analyst,Mid,PT,USA,L,50.0,61813.79
+2024.0,Business Analyst,Senior,PT,UK,M,50.0,45974.9
+2015.0,AI Researcher,Mid,PT,India,L,100.0,85994.08
+2024.0,Business Analyst,Mid,Contract,UK,L,0.0,182685.32
+2024.0,Business Analyst,Mid,FT,Australia,M,50.0,155523.82
+2020.0,,Lead,FT,India,L,50.0,110071.78
+2021.0,Data Analyst,Senior,Contract,Canada,L,100.0,40617.04
+2022.0,Business Analyst,Junior,FT,India,M,50.0,101518.01
+2023.0,Business Analyst,Junior,FT,Australia,S,50.0,51364.35
+2024.0,Data Engineer,Senior,Contract,Canada,S,0.0,125022.05
+2018.0,Data Analyst,Junior,FT,Canada,M,50.0,108364.15
+2017.0,Business Analyst,Junior,FT,Canada,S,0.0,75274.62
+2017.0,Data Engineer,Lead,PT,Canada,S,100.0,81994.9
+2017.0,AI Researcher,Lead,PT,USA,M,100.0,58775.08
+,,,,,,,
+2021.0,Business Analyst,Mid,Contract,Australia,L,50.0,106716.01
+2015.0,Data Analyst,Junior,FT,USA,S,0.0,178289.12
+2022.0,,Senior,PT,USA,S,100.0,114278.5
+2024.0,,Junior,FT,Germany,M,50.0,95868.86
+2018.0,Data Scientist,Senior,PT,Germany,L,50.0,114969.94
+2017.0,Data Scientist,Mid,Contract,UK,S,0.0,33140.19
+2020.0,Machine Learning Engineer,Lead,FT,Australia,S,0.0,
+2024.0,Data Analyst,Junior,FT,UK,S,50.0,300000.0
+2017.0,Machine Learning Engineer,Mid,FT,India,M,0.0,157272.04
+2020.0,Data Engineer,Mid,Contract,Canada,L,50.0,126581.77
+2015.0,Business Analyst,Mid,Contract,Canada,M,0.0,67640.36
+2020.0,Data Scientist,Lead,FT,India,S,50.0,67228.26
+2018.0,Data Engineer,Senior,PT,,M,50.0,54448.61
+2018.0,Data Analyst,Junior,PT,Australia,L,0.0,100331.01
+2018.0,Data Engineer,Lead,PT,India,S,50.0,86253.39
+2023.0,Data Engineer,Lead,FT,USA,S,100.0,88896.55
+2023.0,AI Researcher,Senior,FT,UK,S,100.0,68491.88
+2020.0,Business Analyst,Junior,FT,Germany,M,100.0,151198.27
+2024.0,Business Analyst,Lead,Contract,India,S,50.0,198114.49
+2019.0,Business Analyst,,PT,Canada,L,50.0,85528.49
+2016.0,Data Analyst,Lead,Contract,Australia,M,0.0,156960.42
+2019.0,Data Analyst,Lead,Contract,UK,M,50.0,151041.67
+2017.0,Business Analyst,Junior,Contract,Germany,L,50.0,199776.54
+2017.0,AI Researcher,Lead,PT,Australia,L,0.0,
+2015.0,Machine Learning Engineer,Senior,Contract,India,L,100.0,120636.72
+2018.0,Business Analyst,Mid,FT,Germany,S,100.0,195603.87
+2020.0,Business Analyst,Mid,FT,Canada,S,100.0,43168.87
+2020.0,Machine Learning Engineer,Mid,FT,UK,S,100.0,120277.62
+2018.0,Machine Learning Engineer,Junior,PT,Germany,L,50.0,173854.38
+2016.0,Business Analyst,Mid,Contract,UK,S,100.0,69249.88
+,,,,,,,
+2019.0,AI Researcher,Senior,FT,India,L,0.0,70139.82
+2022.0,,Mid,FT,UK,L,50.0,126855.47
+2019.0,Business Analyst,Senior,Contract,Canada,L,100.0,161877.67
+2019.0,AI Researcher,Senior,Contract,UK,S,0.0,93159.18
+2019.0,Data Engineer,Mid,FT,Canada,S,50.0,126688.8
+2022.0,Business Analyst,Junior,Contract,Canada,M,100.0,108045.12
+2018.0,AI Researcher,Mid,FT,USA,L,100.0,86768.24
+2022.0,AI Researcher,Junior,FT,UK,L,0.0,85538.7
+2023.0,Business Analyst,Mid,FT,UK,S,0.0,88276.35
+2024.0,Data Analyst,Mid,FT,Australia,L,50.0,148482.06
+2022.0,,Junior,FT,UK,M,100.0,89829.95
+2016.0,AI Researcher,Lead,Contract,India,L,100.0,140014.63
+2024.0,Data Analyst,Senior,Contract,Germany,M,0.0,131270.71
+2018.0,Machine Learning Engineer,,FT,Canada,S,100.0,53253.63
+2017.0,Machine Learning Engineer,Lead,Contract,Germany,S,0.0,124135.27
+2015.0,Data Analyst,Senior,PT,Germany,S,0.0,166912.44
+2021.0,Machine Learning Engineer,Lead,FT,Australia,L,100.0,36828.98
+2019.0,AI Researcher,Junior,PT,USA,,0.0,
+2016.0,Machine Learning Engineer,,FT,India,S,50.0,76789.31
+2024.0,Data Analyst,Lead,FT,Germany,S,50.0,176726.37
+2020.0,Machine Learning Engineer,Senior,FT,UK,L,100.0,117974.27
+2021.0,Data Scientist,Senior,Contract,USA,L,0.0,50680.37
+2017.0,Machine Learning Engineer,Senior,Contract,Canada,S,50.0,63010.84
+2017.0,Data Analyst,Mid,FT,India,M,50.0,91197.8
+2024.0,Data Engineer,Mid,PT,UK,S,50.0,144033.97
+2018.0,Data Analyst,Lead,Contract,India,L,50.0,167412.18
+2020.0,Business Analyst,Lead,FT,USA,S,50.0,
+2023.0,Data Analyst,Lead,FT,USA,S,0.0,173560.19
+2020.0,Business Analyst,Mid,FT,USA,S,0.0,62157.63
+2020.0,Machine Learning Engineer,Junior,FT,Canada,S,100.0,
+2019.0,AI Researcher,Senior,Contract,UK,S,50.0,40336.26
+2019.0,Business Analyst,Mid,PT,Germany,L,50.0,
+2015.0,Data Scientist,Junior,Contract,India,S,50.0,152889.31
+2016.0,Data Engineer,Lead,Contract,,L,100.0,81733.61
+2020.0,Data Scientist,Junior,Contract,India,M,50.0,191070.68
+2016.0,Data Analyst,Mid,PT,UK,M,100.0,168788.76
+2015.0,AI Researcher,Senior,Contract,India,S,50.0,65594.78
+2015.0,Data Engineer,Junior,FT,UK,S,50.0,
+,,,,,,,
+2016.0,Data Analyst,Senior,Contract,Canada,S,0.0,97215.63
+2018.0,Machine Learning Engineer,Senior,Contract,Australia,M,100.0,131881.05
+2019.0,Machine Learning Engineer,Junior,PT,India,S,0.0,66240.56
+2021.0,AI Researcher,Junior,FT,Australia,S,50.0,153142.69
+2022.0,Data Scientist,Junior,PT,Germany,M,0.0,88208.6
+2020.0,Machine Learning Engineer,Lead,FT,USA,S,0.0,123315.46
+2019.0,Machine Learning Engineer,Senior,Contract,UK,L,100.0,142639.3
+2024.0,Data Analyst,Mid,Contract,UK,M,50.0,164148.74
+2024.0,Data Engineer,Senior,PT,India,L,50.0,154927.44
+2023.0,Business Analyst,Lead,FT,Canada,M,100.0,
+2023.0,Business Analyst,Mid,Contract,India,M,100.0,60370.64
+2019.0,Business Analyst,Lead,PT,Canada,L,50.0,177108.28
+2023.0,Data Scientist,Junior,FT,Germany,S,0.0,106700.0
+2019.0,Data Analyst,Senior,FT,USA,M,100.0,173309.06
+2019.0,AI Researcher,Junior,FT,India,,50.0,
+2023.0,Machine Learning Engineer,Senior,Contract,Australia,L,100.0,163778.0
+2015.0,Data Analyst,,,,,100.0,
+2022.0,Data Engineer,Senior,PT,India,L,0.0,87427.65
+2020.0,Data Scientist,Lead,Contract,Canada,L,0.0,147574.54
+2023.0,Data Scientist,Lead,PT,USA,M,0.0,62985.24
+2017.0,AI Researcher,Junior,FT,Australia,M,100.0,73934.74
+2023.0,Data Analyst,Senior,PT,Canada,L,50.0,129042.27
+2021.0,Data Analyst,Mid,Contract,Germany,L,50.0,143550.07
+2018.0,Business Analyst,Junior,Contract,Canada,L,50.0,
+2024.0,Business Analyst,Mid,PT,Canada,M,50.0,145937.85
+2023.0,Machine Learning Engineer,Lead,Contract,UK,S,100.0,128678.16
+2020.0,Data Analyst,Mid,FT,Canada,L,50.0,94663.17
+2018.0,Business Analyst,Lead,Contract,India,L,50.0,1000000.0
+2023.0,Data Scientist,Junior,PT,India,M,0.0,59988.31
+2020.0,Machine Learning Engineer,Lead,PT,Canada,M,0.0,173687.97
+2015.0,AI Researcher,Junior,PT,India,S,50.0,58000.59
+2016.0,AI Researcher,Junior,PT,Canada,S,100.0,144549.94
+2017.0,Data Engineer,Junior,FT,Australia,M,50.0,119673.13
+2017.0,Data Engineer,Senior,FT,Australia,M,0.0,38216.37
+2016.0,Data Scientist,Senior,Contract,India,M,0.0,70869.9
+2015.0,Data Analyst,Junior,FT,Germany,S,50.0,101337.15
+2016.0,Data Scientist,Mid,PT,USA,L,100.0,35435.43
+2021.0,AI Researcher,Senior,FT,USA,M,100.0,179837.8
+2023.0,Data Analyst,Lead,FT,India,L,0.0,106907.76
+2023.0,Data Analyst,Lead,PT,Australia,L,100.0,168610.72
+2024.0,Business Analyst,Mid,PT,India,L,0.0,93845.58
+2023.0,Machine Learning Engineer,Junior,FT,USA,M,50.0,42731.17
+2019.0,Business Analyst,Senior,PT,Australia,M,50.0,104844.1
+2019.0,Data Engineer,Mid,Contract,Australia,M,50.0,37060.79
+2024.0,Data Analyst,Mid,PT,USA,L,50.0,66372.45
+2016.0,Machine Learning Engineer,Senior,PT,UK,L,50.0,58549.83
+2017.0,AI Researcher,Junior,FT,USA,L,100.0,43334.23
+2021.0,AI Researcher,Mid,PT,India,M,0.0,167979.9
+2017.0,Data Scientist,Mid,Contract,USA,S,0.0,147837.12
+2022.0,Data Scientist,Mid,Contract,UK,L,100.0,42985.67
+2018.0,Business Analyst,Junior,Contract,UK,S,0.0,168717.17
+2023.0,Machine Learning Engineer,Junior,FT,UK,L,0.0,1000000.0
+2016.0,Machine Learning Engineer,Senior,PT,India,S,0.0,197139.99
+2016.0,Data Engineer,Junior,FT,,S,0.0,62943.26
+2019.0,AI Researcher,Senior,FT,Canada,M,50.0,139197.23
+2024.0,Machine Learning Engineer,Junior,Contract,UK,M,100.0,
+2019.0,Business Analyst,Senior,PT,Germany,L,0.0,1000000.0
+2020.0,Data Engineer,Mid,PT,UK,M,100.0,132831.82
+2018.0,Business Analyst,Lead,FT,Australia,M,0.0,192229.23
+2022.0,Business Analyst,Lead,FT,UK,M,0.0,142011.15
+2019.0,Machine Learning Engineer,Mid,PT,India,S,0.0,123792.11
+2023.0,Machine Learning Engineer,Mid,FT,Australia,S,0.0,39445.81
+2021.0,Business Analyst,Lead,PT,India,M,100.0,165604.42
+2020.0,Business Analyst,Senior,PT,USA,S,50.0,78026.25
+2016.0,Data Analyst,,Contract,UK,L,50.0,87397.05
+2020.0,Machine Learning Engineer,Senior,FT,Canada,L,100.0,114723.73
+2016.0,AI Researcher,Lead,PT,USA,M,0.0,159211.89
+2023.0,Data Analyst,,FT,UK,M,50.0,189229.82
+2015.0,AI Researcher,Lead,Contract,,S,50.0,189034.58
+2021.0,AI Researcher,Senior,FT,Canada,M,0.0,52784.56
+2015.0,Data Scientist,Senior,Contract,UK,M,0.0,199115.05
+2019.0,Business Analyst,Mid,Contract,UK,S,0.0,97986.05
+2024.0,AI Researcher,Lead,FT,Canada,L,0.0,118022.2
+2022.0,Machine Learning Engineer,Senior,PT,Canada,M,0.0,162633.75
+2023.0,,Lead,Contract,USA,M,0.0,108346.85
+2021.0,Business Analyst,Lead,FT,Australia,L,50.0,103071.01
+2017.0,Data Scientist,Mid,FT,Canada,S,100.0,123498.51
+2023.0,Data Scientist,Lead,FT,Canada,L,100.0,1000000.0
+2015.0,Machine Learning Engineer,Mid,FT,India,L,100.0,126640.05
+2024.0,Machine Learning Engineer,Junior,FT,Canada,S,0.0,102304.36
+2022.0,Business Analyst,Lead,Contract,Australia,M,0.0,163236.22
+2020.0,Data Analyst,Junior,Contract,Australia,M,0.0,150411.85
+2017.0,Machine Learning Engineer,Mid,PT,Australia,M,50.0,44091.56
+2015.0,Machine Learning Engineer,Senior,Contract,UK,S,0.0,87625.27
+2021.0,Data Scientist,Junior,FT,Germany,M,0.0,38757.26
+2021.0,,,,,,,
+2017.0,Data Engineer,Lead,FT,Canada,S,0.0,148516.65
+2023.0,Data Engineer,Mid,FT,UK,M,50.0,199045.4
+2017.0,Business Analyst,Mid,FT,India,L,100.0,186883.78
+2017.0,Data Engineer,Mid,Contract,Germany,M,0.0,191902.62
+2020.0,Data Analyst,Junior,FT,UK,S,50.0,193550.95
+2020.0,Data Scientist,Junior,Contract,Germany,S,0.0,186079.8
+2018.0,Machine Learning Engineer,Senior,Contract,Canada,S,50.0,125881.11
+2023.0,Data Scientist,Lead,Contract,UK,M,0.0,133164.07
+2023.0,Data Analyst,Mid,PT,USA,S,50.0,108064.3
+2024.0,Machine Learning Engineer,Junior,Contract,Australia,M,0.0,132584.86
+2017.0,AI Researcher,Senior,FT,Germany,L,0.0,178816.12
+2024.0,Data Scientist,Junior,FT,,L,50.0,169935.41
+2022.0,AI Researcher,Lead,Contract,Germany,M,0.0,137544.65
+2018.0,AI Researcher,Mid,FT,UK,L,50.0,35240.12
+2019.0,Machine Learning Engineer,Mid,FT,Germany,S,100.0,191086.02
+2019.0,Data Analyst,Lead,PT,India,L,0.0,92556.43
+2020.0,Business Analyst,Lead,PT,Australia,S,0.0,144695.66
+2024.0,Data Analyst,Junior,PT,Canada,S,50.0,142825.0
+2020.0,Data Scientist,Mid,FT,Canada,M,50.0,108673.1
+2020.0,Business Analyst,Senior,PT,Canada,M,50.0,160133.76
+2023.0,Machine Learning Engineer,Junior,PT,Germany,M,50.0,98646.21
+2015.0,Business Analyst,Senior,Contract,Canada,M,0.0,186809.94
+2017.0,Data Engineer,Senior,Contract,India,M,50.0,89088.68
+2024.0,Machine Learning Engineer,Junior,Contract,UK,L,0.0,124710.79
+2018.0,Data Scientist,Senior,PT,USA,M,50.0,33662.41
+2016.0,AI Researcher,Junior,FT,UK,M,0.0,50976.26
+2021.0,Data Analyst,Mid,Contract,UK,M,0.0,46332.19
+2018.0,Business Analyst,,FT,India,M,50.0,117522.87
+2024.0,Business Analyst,Junior,PT,USA,S,100.0,171415.61
+2022.0,Business Analyst,Senior,FT,Australia,M,100.0,114732.57
+2021.0,Data Scientist,Lead,FT,USA,L,0.0,114721.05
+2015.0,Data Engineer,Lead,FT,Canada,M,50.0,36060.49
+2020.0,Data Scientist,Mid,Contract,Germany,M,50.0,157990.38
+2023.0,Data Analyst,Senior,PT,Australia,L,100.0,189834.24
+2018.0,Data Analyst,,PT,USA,S,50.0,117830.57
+2021.0,,,,,,,
+2017.0,Data Analyst,Senior,FT,Canada,L,100.0,78988.91
+2017.0,Data Engineer,Junior,PT,India,M,50.0,197504.89
+2019.0,Machine Learning Engineer,Mid,FT,UK,S,100.0,171164.17
+2018.0,Data Scientist,Junior,PT,USA,M,100.0,197749.39
+2020.0,Machine Learning Engineer,Mid,Contract,India,M,100.0,162632.02
+2024.0,Business Analyst,Junior,PT,USA,S,50.0,167196.6
+2022.0,Business Analyst,Mid,FT,Australia,S,100.0,197857.63
+2015.0,Business Analyst,Senior,PT,USA,M,0.0,79090.65
+2015.0,AI Researcher,Junior,PT,India,L,100.0,164489.89
+2017.0,AI Researcher,Mid,PT,Australia,S,100.0,147118.81
+2015.0,Data Scientist,Senior,FT,Australia,L,0.0,44867.9
+2016.0,Data Analyst,Mid,PT,Germany,M,50.0,62929.76
+2024.0,Machine Learning Engineer,,FT,UK,M,100.0,184500.4
+2017.0,Business Analyst,Lead,FT,Australia,S,0.0,156719.04
+2023.0,AI Researcher,Mid,Contract,India,S,100.0,136427.49
+2019.0,Data Engineer,Mid,PT,Australia,M,0.0,128463.32
+2015.0,Machine Learning Engineer,Junior,PT,UK,,100.0,
+2020.0,Data Analyst,,,Germany,,0.0,
+2020.0,Machine Learning Engineer,Lead,PT,Australia,S,50.0,151572.15
+2016.0,AI Researcher,,Contract,Australia,,100.0,
+2017.0,Data Analyst,Senior,FT,Germany,M,0.0,188668.53
+2017.0,Data Engineer,Lead,PT,Australia,L,0.0,84139.17
+2021.0,Data Analyst,Lead,FT,Australia,L,100.0,80019.75
+2016.0,Data Engineer,Lead,FT,UK,L,0.0,123043.61
+2015.0,Data Engineer,Junior,FT,Australia,M,0.0,500000.0
+2022.0,Data Scientist,Senior,PT,Australia,S,0.0,171530.44
+2024.0,Business Analyst,Lead,Contract,Australia,L,0.0,154544.31
+2015.0,Data Engineer,Senior,Contract,Australia,L,100.0,78489.58
+2022.0,Machine Learning Engineer,Junior,PT,India,S,0.0,147091.39
+2023.0,Data Analyst,Junior,Contract,USA,M,50.0,164677.64
+2022.0,Machine Learning Engineer,Junior,Contract,India,S,50.0,89814.53
+2017.0,AI Researcher,Junior,Contract,Australia,L,50.0,
+2020.0,,Mid,PT,Canada,L,50.0,45205.11
+2023.0,Data Engineer,Mid,PT,USA,S,100.0,185494.24
+2019.0,Machine Learning Engineer,Junior,PT,Germany,S,50.0,66858.52
+2018.0,Data Analyst,Senior,PT,UK,L,50.0,189361.8
+2017.0,Data Engineer,Mid,Contract,USA,L,100.0,31624.68
+2024.0,Data Scientist,Junior,FT,USA,M,100.0,122479.5
+2024.0,Data Scientist,Lead,FT,Canada,L,100.0,150148.79
+2019.0,,,,,,,
+2020.0,Data Scientist,Junior,FT,Australia,L,100.0,176908.88
+2019.0,,Lead,PT,Germany,M,50.0,129699.84
+2015.0,Data Analyst,Senior,Contract,Australia,L,100.0,131390.25
+2022.0,Business Analyst,Mid,Contract,Canada,S,50.0,100947.87
+,,,,,,,
+2018.0,Data Scientist,Junior,PT,Australia,M,100.0,64094.69
+2022.0,Data Analyst,Mid,FT,India,M,50.0,37064.47
+2016.0,Machine Learning Engineer,Lead,Contract,Australia,S,0.0,141527.64
+2017.0,Data Scientist,Mid,Contract,Australia,S,50.0,186633.07
+2018.0,,Junior,Contract,Germany,M,0.0,113016.22
+2024.0,Data Scientist,Mid,PT,Germany,S,0.0,35304.64
+2020.0,Machine Learning Engineer,Mid,PT,Australia,M,100.0,129292.53
+2021.0,Data Engineer,Senior,FT,USA,S,50.0,110650.92
+2024.0,Machine Learning Engineer,Senior,PT,Canada,S,0.0,154572.57
+2022.0,,,,,,,
+2017.0,AI Researcher,Junior,FT,India,M,0.0,50834.37
+2016.0,Data Engineer,Mid,PT,Germany,M,0.0,34748.63
+,,,,,,,
+2021.0,AI Researcher,Mid,FT,Canada,M,0.0,66401.2
+2021.0,Data Scientist,Mid,PT,Canada,S,100.0,149233.79
+,,,,,,,
+2021.0,Data Scientist,Lead,PT,UK,M,50.0,105557.16
+2022.0,Data Engineer,Lead,PT,Germany,L,0.0,39071.94
+2024.0,Data Engineer,Junior,Contract,India,S,0.0,111411.06
+2022.0,Data Engineer,Senior,Contract,Germany,L,0.0,40429.18
+2019.0,Data Scientist,Lead,FT,Germany,S,100.0,109780.69
+2016.0,Data Engineer,Lead,PT,,S,50.0,161304.78
+2018.0,Machine Learning Engineer,Senior,Contract,Germany,S,100.0,
+2017.0,AI Researcher,Senior,FT,India,L,0.0,99360.3
+2021.0,Business Analyst,Junior,Contract,UK,M,50.0,118676.33
+2015.0,Data Analyst,Mid,PT,UK,L,50.0,81221.35
+2019.0,,,,,,,
+2017.0,Business Analyst,Junior,Contract,UK,L,50.0,99795.99
+2019.0,Data Engineer,Junior,FT,Germany,L,0.0,183311.64
+2018.0,Data Analyst,Junior,FT,Germany,M,100.0,106640.61
+2019.0,Machine Learning Engineer,Mid,PT,Canada,L,0.0,130713.26
+2020.0,AI Researcher,Lead,PT,Germany,L,0.0,39834.48
+,,,,,,,
+2022.0,Data Engineer,Junior,Contract,Canada,S,50.0,119836.0
+2015.0,Machine Learning Engineer,Junior,Contract,Australia,M,50.0,168157.81
+2017.0,Business Analyst,Lead,FT,India,S,50.0,106641.89
+2019.0,Data Analyst,Senior,FT,Australia,S,50.0,183765.57
+2024.0,Data Engineer,Senior,FT,India,L,50.0,40687.23
+2016.0,Machine Learning Engineer,Mid,Contract,Germany,L,50.0,71289.54
+2019.0,Machine Learning Engineer,Senior,FT,UK,S,0.0,139054.63
+2021.0,Data Scientist,Mid,Contract,Canada,L,0.0,35566.19
+2017.0,Machine Learning Engineer,Junior,FT,India,S,100.0,195502.55
+2022.0,Data Scientist,Mid,PT,India,M,100.0,47556.6
+2021.0,Business Analyst,Mid,FT,Canada,L,0.0,50635.69
+2024.0,,,,,,,
+2018.0,Data Scientist,Senior,Contract,UK,L,50.0,50128.48
+2022.0,,,,,,,
+2022.0,Business Analyst,,FT,Australia,,0.0,
+2018.0,Business Analyst,Junior,PT,India,L,0.0,
+2021.0,Data Analyst,Junior,PT,USA,L,100.0,76884.03
+2020.0,Business Analyst,Mid,FT,Australia,L,50.0,130272.49
+2018.0,Data Engineer,Lead,Contract,USA,L,0.0,130650.94
+2024.0,Machine Learning Engineer,Mid,FT,Canada,S,100.0,182004.55
+2023.0,Business Analyst,Senior,FT,UK,L,50.0,
+2022.0,Data Scientist,Junior,PT,Germany,M,0.0,65458.15
+2019.0,Data Analyst,Lead,PT,India,L,100.0,76708.08
+2023.0,AI Researcher,Lead,Contract,Australia,S,50.0,161091.3
+2021.0,Business Analyst,Junior,FT,USA,M,50.0,134747.52
+2015.0,Data Analyst,Mid,PT,Germany,L,50.0,127723.57
+2023.0,AI Researcher,Mid,Contract,Canada,M,0.0,104982.13
+2022.0,Machine Learning Engineer,Lead,PT,India,S,0.0,30630.68
+2022.0,Data Scientist,Mid,Contract,Australia,S,0.0,62570.11
+2018.0,AI Researcher,Senior,PT,Australia,L,0.0,
+2023.0,AI Researcher,Lead,Contract,Germany,L,50.0,186173.76
+2016.0,AI Researcher,Mid,Contract,Australia,S,100.0,125964.82
+2015.0,Data Engineer,Senior,PT,India,L,100.0,59041.59
+2021.0,Data Analyst,Mid,FT,Canada,S,50.0,500000.0
+2019.0,Machine Learning Engineer,Mid,Contract,Canada,L,50.0,157415.8
+2018.0,Data Scientist,Junior,FT,,S,0.0,76906.63
+2016.0,AI Researcher,Lead,PT,UK,M,50.0,79799.04
+2023.0,Business Analyst,Mid,PT,Australia,L,0.0,97652.73
+2022.0,Machine Learning Engineer,Lead,Contract,India,S,0.0,102531.23
+2016.0,Data Engineer,Senior,Contract,Australia,S,100.0,108681.08
+2018.0,AI Researcher,Junior,FT,Australia,S,100.0,76174.02
+2024.0,Data Scientist,Mid,PT,,L,0.0,192613.93
+2018.0,Data Analyst,Junior,FT,,M,100.0,183800.53
+2021.0,Machine Learning Engineer,,FT,Germany,L,0.0,154901.27
+2024.0,AI Researcher,Junior,PT,Australia,M,100.0,35383.23
+2015.0,Data Analyst,,FT,India,,50.0,
+2021.0,Data Analyst,Mid,PT,India,S,100.0,179470.84
+2020.0,AI Researcher,Senior,PT,UK,L,50.0,140073.94
+2018.0,Machine Learning Engineer,,PT,Germany,M,50.0,140834.3
+2024.0,Business Analyst,Lead,FT,Canada,L,100.0,177290.85
+2024.0,Machine Learning Engineer,Lead,Contract,Australia,S,0.0,154284.44
+2020.0,Data Engineer,Junior,PT,Germany,S,0.0,169707.46
+2022.0,Business Analyst,Lead,Contract,Germany,S,50.0,111412.31
+2023.0,Business Analyst,Lead,PT,Canada,M,50.0,196660.2
+2018.0,Data Scientist,Lead,PT,India,S,0.0,107342.44
+,,,,,,,
+2024.0,Machine Learning Engineer,Senior,FT,Australia,L,50.0,172920.11
+2017.0,Data Scientist,Mid,PT,Australia,M,100.0,152048.54
+2022.0,Data Scientist,Lead,Contract,Germany,S,50.0,189675.18
+2021.0,Data Engineer,Junior,FT,Canada,L,0.0,74675.8
+2021.0,AI Researcher,Lead,Contract,Canada,L,100.0,67493.23
+2020.0,Business Analyst,Lead,FT,USA,M,0.0,102871.5
+2023.0,Business Analyst,,Contract,Australia,L,0.0,96884.23
+2023.0,Data Engineer,Junior,Contract,UK,S,0.0,185866.17
+2023.0,AI Researcher,Lead,Contract,India,L,0.0,45034.44
+2023.0,Data Engineer,Mid,Contract,USA,L,50.0,188715.36
+2019.0,,,,,,0.0,
+2022.0,Data Analyst,Junior,Contract,Australia,L,0.0,177207.18
+2024.0,Business Analyst,Senior,Contract,Germany,S,0.0,58488.63
+2016.0,Machine Learning Engineer,Mid,Contract,UK,S,50.0,1000000.0
+2022.0,Business Analyst,Junior,FT,,M,50.0,151968.37
+2021.0,Data Analyst,,Contract,Australia,M,0.0,136704.46
+2018.0,Data Engineer,Mid,PT,Australia,L,50.0,147918.12
+2019.0,Business Analyst,Lead,FT,Canada,S,50.0,91430.37
+2016.0,Machine Learning Engineer,Lead,PT,India,M,0.0,188135.9
+2020.0,Data Engineer,Mid,FT,Canada,L,0.0,155489.89
+2021.0,Machine Learning Engineer,Lead,PT,Canada,S,0.0,50859.9
+2018.0,AI Researcher,Mid,PT,UK,M,0.0,52770.16
+2019.0,Data Engineer,Junior,FT,Canada,M,100.0,50667.14
+2020.0,AI Researcher,Junior,Contract,UK,S,0.0,136592.92
+2018.0,Machine Learning Engineer,,,UK,,0.0,
+2022.0,Data Analyst,Junior,FT,India,L,50.0,197749.14
+2024.0,Business Analyst,Lead,Contract,Germany,S,0.0,110179.4
+2018.0,,Senior,Contract,UK,S,50.0,38590.67
+2015.0,Data Scientist,Senior,PT,USA,M,0.0,197781.88
+2019.0,Data Analyst,Junior,PT,UK,S,0.0,194902.26
+2023.0,Machine Learning Engineer,Junior,FT,Australia,S,50.0,89471.13
+2016.0,Machine Learning Engineer,Mid,Contract,Canada,M,0.0,168552.65
+2015.0,Business Analyst,Junior,Contract,Canada,M,100.0,147397.25
+2017.0,Business Analyst,Mid,Contract,Germany,M,50.0,99259.26
+2019.0,Business Analyst,Senior,FT,Canada,M,50.0,
+2015.0,Data Analyst,Junior,PT,Germany,L,50.0,155808.05
+2024.0,Business Analyst,Senior,Contract,UK,L,0.0,75964.53
+2021.0,Data Analyst,Senior,PT,USA,L,50.0,179816.05
+2023.0,Machine Learning Engineer,Lead,PT,Canada,L,50.0,86755.25
+2016.0,,,,,,,
+2024.0,,,,,,,
+2021.0,Data Engineer,Mid,Contract,Canada,M,100.0,81629.49
+2024.0,Data Scientist,Senior,PT,UK,M,100.0,134558.72
+2024.0,Data Scientist,Mid,Contract,USA,S,0.0,155236.0
+2019.0,,,,,,,
+2015.0,Data Scientist,Junior,Contract,USA,S,0.0,56925.43
+2020.0,,,,,,100.0,
+2019.0,Data Scientist,Junior,PT,India,M,100.0,96327.48
+2019.0,Business Analyst,Junior,PT,USA,S,50.0,140678.12
